@@ -1,7 +1,7 @@
 {
   "name": "aptos-task",
   "version": "1.0.0",
-  "description": "edit not owner, edit2, edit3, ed4,ed5, ed6",
+  "description": "1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
